@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<lugares>
+	<locacion>
+		<imagen>cuadrado.png</imagen>
+	</locacion>
+	<locacion>
+		<imagen>ele.png</imagen>
+	</locacion>
+	<locacion>
+		<imagen>ele2.png</imagen>
+	</locacion>
+	<locacion>
+		<imagen>palo.png</imagen>
+	</locacion>
+	<locacion>
+		<imagen>te.jpg</imagen>
+	</locacion>
+	<locacion>
+		<imagen>zeta.jpg</imagen>
+	</locacion>
+	<locacion>
+		<imagen>zeta2.jpg</imagen>
+	</locacion>
+</lugares>
